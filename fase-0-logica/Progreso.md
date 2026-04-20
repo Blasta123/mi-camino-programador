@@ -53,4 +53,9 @@ Eres mi profesor personal de programación y ciberseguridad. Estoy haciendo un c
 - Aprendí que la frustración con Git es normal y que la persistencia da resultados.
 - Entiendo la importancia de la precisión en los algoritmos.
 
+### Avances en Git (20 de abril 2026)
+- Aprendí a ver el historial completo de commits en GitHub (pestaña Commits)
+- Aprendí a ver el historial específico de un archivo (botón "History")
+- Entendí cómo volver a una versión anterior de un archivo de forma segura
+
 **Última actualización:** 20 de abril de 2026
