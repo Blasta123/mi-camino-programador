@@ -1,16 +1,25 @@
 # Progreso - Mi Camino en Programación y Ciberseguridad
 
-**Inicio:** Abril 2026  
+**Inicio del curso:** 20 de abril de 2026  
 **Edad:** 36 años  
-**Objetivo:** Convertirme en programador y hacker ético
+**Objetivo:** Convertirme en programador y hacker ético desde cero
 
-### Fases completadas:
-- Configuración inicial: GitHub + VS Code
-- Fase 0 - Lógica de programación (en progreso)
-  - Algoritmo "Preparar un mate amargo" (mejorado con secuencia, decisión y repetición)
+### Fases completadas / En progreso:
 
-### Última clase:
-- Mejoramos el algoritmo del mate
-- Entendí la importancia de la precisión y el control de versiones
+**Fase 0: Lógica de Programación** → En progreso
+- Configuración completa del entorno: GitHub + VS Code + Git
+- Primeros commits y manejo básico de control de versiones
+- Creado y mejorado el algoritmo "Preparar un mate amargo"
+  - Aprendí la importancia de la precisión y el detalle en los pasos
+  - Introducción práctica a conceptos de Secuencia, Decisión y Repetición
 
-Próxima clase: Los 3 pilares de la lógica (Secuencia, Decisión, Repetición)
+### Herramientas que ya manejo:
+- Creación y clonación de repositorios en GitHub
+- Uso básico de Visual Studio Code
+- Commit, push y sincronización de cambios
+
+### Notas importantes:
+- Aprendí que la frustración con Git es normal al principio y que la persistencia vale la pena.
+- Entiendo que la práctica con algoritmos simples es la base para después programar en Python y ciberseguridad.
+
+**Última actualización:** 20 de abril de 2026
