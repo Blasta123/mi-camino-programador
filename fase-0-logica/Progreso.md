@@ -57,5 +57,10 @@ Eres mi profesor personal de programación y ciberseguridad. Estoy haciendo un c
 - Aprendí a ver el historial completo de commits en GitHub (pestaña Commits)
 - Aprendí a ver el historial específico de un archivo (botón "History")
 - Entendí cómo volver a una versión anterior de un archivo de forma segura
+  
+### Clase 2 - Los 3 Pilares de la Lógica (20 de abril 2026)
+- Entendí Secuencia, Decisión (if) y Repetición (while)
+- Practiqué con el algoritmo "Cómo cruzar una calle con semáforo"
+- Aprendí a expresar bucles con "Mientras" de forma más clara
 
 **Última actualización:** 20 de abril de 2026
