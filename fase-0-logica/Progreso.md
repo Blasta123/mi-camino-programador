@@ -63,4 +63,15 @@ Eres mi profesor personal de programación y ciberseguridad. Estoy haciendo un c
 - Practiqué con el algoritmo "Cómo cruzar una calle con semáforo"
 - Aprendí a expresar bucles con "Mientras" de forma más clara
 
+### Clase 2 - Los 3 Pilares de la Lógica de Programación (20 de abril 2026)
+- Aprendí y practiqué los 3 conceptos fundamentales:
+  - Secuencia (pasos uno detrás de otro)
+  - Decisión (condicionales "Si...")
+  - Repetición (bucles "Mientras...")
+- Ejercicio práctico: Algoritmo "Cómo cruzar una calle con semáforo"
+- Mejoré la expresión de bucles usando "Mientras" de forma más clara y precisa
+- Entendí la importancia de ser específico en las repeticiones
+
+**Estado actual de Fase 0:** Casi completada
+
 **Última actualización:** 20 de abril de 2026
