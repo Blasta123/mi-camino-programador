@@ -1,9 +1,20 @@
-1 Debemos asegurarnos de que estamos caminando en una ciudad
-2 Al llegar a la esquina debemos mirar si vienen autos o si hay un semáforo que nos marque el turno para cruzar o no
-3 Si no hay semáforos pero vienen autos u otros vehículos hay que esperar hasta que pasen
-4 si no vienen vehículos y tampoco hay un semaforo, avanzamos tranquilamente
-5 sino, una vez que pasen los autos o que el semáforo nos dé el verde avanzamos
-6 si no vienen vehículos pero el semáforo está en ojo, eso nos prohibe avanzar, por lo tanto esperamos hasta el verde
-7 Una vez pisamos la calle, debemos seguir dando un paso tras otro hasta llegar a la otra vereda y estar seguros
-8 no debemos dejar de avanzar hasta lograr estar seguros
-9 al llegar a otra esquina, hacemos lo mismo
+Algoritmo: Cómo cruzar una calle con semáforo
+
+1. Llegar a la esquina y pararse en la vereda.
+2. Mirar el semáforo.
+
+3. Mientras el semáforo esté en rojo o amarillo:
+        Esperar en la vereda.
+        Volver a mirar el semáforo.
+    Si no hay semáforo hacer lo del paso 4
+4. Si el semáforo está en verde:
+        Mirar a la izquierda.
+        Mirar a la derecha.
+        
+        Si no vienen vehículos:
+            Cruzar la calle caminando con precaución.
+        Si vienen vehículos:
+            Volver al paso 3 (esperar nuevamente).
+
+5. Una vez cruzada la calle, continuar con mi camino.
+6. Al llegar a la próxima esquina, repetimos.
