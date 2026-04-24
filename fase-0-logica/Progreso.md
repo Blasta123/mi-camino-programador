@@ -72,6 +72,18 @@ Eres mi profesor personal de programación y ciberseguridad. Estoy haciendo un c
 - Mejoré la expresión de bucles usando "Mientras" de forma más clara y precisa
 - Entendí la importancia de ser específico en las repeticiones
 
-**Estado actual de Fase 0:** Casi completada
+### Cierre de Fase 0 - Lógica de Programación (20 de abril 2026)
+- Completados los 3 Pilares fundamentales:
+  - Secuencia
+  - Decisión (condicionales)
+  - Repetición (bucles)
+- Ejercicios prácticos realizados y mejorados:
+  - Preparar un mate amargo
+  - Cruzar una calle con semáforo
+  - Preparar un café con leche
+- Entendí la importancia de la precisión, el orden y cómo estructurar decisiones y repeticiones para facilitar futuras correcciones.
 
-**Última actualización:** 20 de abril de 2026
+**Fase 0 COMPLETADA** 🎉
+**Próxima fase:** Introducción a Python
+
+**Última actualización:** 24 de abril de 2026
