@@ -86,4 +86,12 @@ Eres mi profesor personal de programación y ciberseguridad. Estoy haciendo un c
 **Fase 0 COMPLETADA** 🎉
 **Próxima fase:** Introducción a Python
 
+### Inicio de Fase 1 - Python (20 de abril de 2026)
+- Ejecutado mi primer programa: `hola_mundo.py`
+- Aprendido concepto de Variables y tipos de datos básicos
+- Creado archivo `variables.py` con datos personales y cálculos simples (IMC)
+- Entendido el uso de `print()` y operaciones básicas
+
+**Estado actual:** Fase 1 - Python (En progreso)
+
 **Última actualización:** 24 de abril de 2026
