@@ -1,31 +1,27 @@
-1 Buscar una pava electrica o en su defecto una pava para poner en la hornalla de la cocina y calentar el agua
-2 Buscar el recipiente donde guardamos el café instantáneo
-3 asegurarnos de que sea efectivamente café
-4 Buscar una taza, vaso térmico o termo que es donde vamos a preparar el café
-5 Si nos gusta beberlo dulce, buscar azúcar o bien edulcorante depende la opción que sea de nuestra preferencia o la del usuario al que le preparamos la bebida
-6 Buscar una cuchara que es el utensillo que vamos a usar para colocar los ingredientes y luego además remover
-7 Buscar el reciíente donde tenemos guardada la leche, seguramente esté en la heladera
-    si es en polvo seguramente sea en unfrasco en la estantería o alacena
-    si no hay en la heladera, buscar en la alacena que debe haber una cajita de leche
+Algoritmo: Preparar un café con leche
 
-8 Una vez que el agua se haya calentado a 70 u 80 guardamos
-9 Apagamos la hornalla o bien nos aseguramos que la pava electrica esté apagada
-10 Destapamos el recipiente del café
+1. Reunir todos los materiales: taza, café soluble (o cápsula), leche, azúcar (opcional), cucharita, pava o hervidora con agua.
 
-11 Preguntamos si el cafe le gusta fuerte o suave
-    si le gusta suave con la cuchara sacamos una cucharada de café y la volcamos en la taza
-    si al usuario le gusta mas fuerte agregamos una mas
+2. Llenar la pava con agua y encenderla.
 
-12 Ahora tomamos el recipiente del azucar o edulcorante y lo abrimos
-    si el usuario lo toma dulce agregamos la cantidad necesaria
-    si no descartamos por completo este paso
+3. Mientras el agua no esté caliente:
+        Esperar y revisar la pava cada cierto tiempo.
 
-13 Una vez nos aseguramos que tiene el suficiente café y7o endulzante vertemos el agua caliente
-    sino: Volvemos a revisar que nos falta
+4. Cuando el agua esté caliente:
+        Verter el agua caliente en la taza con el café.
 
-14 Agregamos leche
-    si le gusta apenas "cortado" con poca leche es muy poco lo que ponemos
-    sino 3/4 partes de la bebida debe ser leche
+5. Decidir si quiero café con leche:
+        Si quiero café con leche:
+            Calentar la leche (en microondas o jarra).
+            Verter la leche caliente en la taza con café.
+        Si no quiero leche:
+            Dejar el café solo.
 
-15 Entregamos el café al usuario o lo bebemos
+6. Decidir si quiero endulzar:
+        Si quiero endulzar:
+            Agregar azúcar al gusto.
+            Revolver con la cucharita.
+        Si no quiero azúcar:
+            No agregar nada.
 
+7. Una vez listo, disfrutar del café con leche.
